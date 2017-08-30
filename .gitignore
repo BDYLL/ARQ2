@@ -6,6 +6,9 @@
 # Log file
 *.log
 
+.idea
+ARQ_SOFT.iml
+
 # BlueJ files
 *.ctxt
 

@@ -1,0 +1,5 @@
+Mon Aug 21 12:50:26 CDT 2017
+Min: 2.0
+Max: 10.0
+Avg: 6.25
+Most Frequent Payee: yolo
